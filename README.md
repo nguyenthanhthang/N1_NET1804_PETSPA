@@ -10,3 +10,14 @@ N1_NET1804_PETSPA
 | UC-02    | UC-5     | UC-13    | UC-9     |
 | UC-14    | UC-25    | UC-17    | UC-22    |
 | UC-26    |          |          | UC-23    |
+
+
+| Name | UC-TC |
+|----------||
+| Nguyen Hang Nhat Huy   | | 
+| Duong Thanh Thoai    | | 
+| Ngo Anh Kiet    |   |
+| Nguyen Thanh Thang    ||
+| Truong Le Minh Nghia    | |
+| Vo Anh Hao    | |
+| Nguyen Tuan Phuc   |         |
