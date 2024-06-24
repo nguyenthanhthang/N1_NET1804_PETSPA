@@ -13,12 +13,12 @@ N1_NET1804_PETSPA
 
 **SPRINT 1**
 
-| Name |                UC-TC               |
+| Name |                UC(TC)               |
 |----------------------|--------------------|
 | Nguyen Hang Nhat Huy | UC-01 (TC:9,10,11) | 
 | Duong Thanh Thoai    | UC-02 (TC:13,14,15)| 
 | Ngo Anh Kiet         | UC-01 (TC:12), UC-02 (TC:16)|
-| Nguyen Thanh Thang   |                    |
-| Truong Le Minh Nghia |                    |
-| Vo Anh Hao           |                    |
-| Nguyen Tuan Phuc     |                    |
+| Nguyen Thanh Thang    |UC-06 (TC:1,2), UC-10 (TC:4)|
+| Truong Le Minh Nghia | UC-14 (TC:17), UC-26 (TC:20)|
+| Vo Anh Hao           | UC-26 (TC:21,22)      |
+| Nguyen Huu Phuc     |  UC-10 (TC:5,6), UC-12 (TC:7)|
