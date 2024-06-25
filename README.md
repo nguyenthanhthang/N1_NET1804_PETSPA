@@ -24,3 +24,16 @@ https://docs.google.com/document/d/1WOuLoSY7cVJGAGwxCwvI7mmZAorQqwIiHzUI0QHBN7g/
 | Truong Le Minh Nghia | UC-14 (TC:17), UC-26 (TC:20)|
 | Vo Anh Hao           | UC-26 (TC:21,22)      |
 | Nguyen Huu Phuc     |  UC-10 (TC:5,6), UC-12 (TC:7)|
+
+
+**SPRINT 2**
+
+| Name |                UC(TC)               |
+|----------------------|--------------------|
+| Nguyen Hang Nhat Huy | UC-15 (TC:53), UC-05 | 
+| Duong Thanh Thoai    | UC-15 (TC:51,52)   | 
+| Ngo Anh Kiet         | UC-15 (TC:24,25)   |
+| Nguyen Thanh Thang    |UC-16 (TC:26,54)   |
+| Truong Le Minh Nghia | UC-16 (TC:27), UC-18 (TC:28)|
+| Vo Anh Hao           | UC-18 (TC:29,55)   |
+| Nguyen Huu Phuc     |  UC-18 (TC:30)     |
