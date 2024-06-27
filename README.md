@@ -5,13 +5,13 @@ https://docs.google.com/document/d/1WOuLoSY7cVJGAGwxCwvI7mmZAorQqwIiHzUI0QHBN7g/
 
 | Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 |
 |----------|----------|----------|----------|
-| UC-06     | UC-11    | UC-24    | UC-21   | 
-| UC-10    | UC-15    | UC-19    | UC-20    | 
-| UC-12    | UC-16    | UC-04    | UC-03    |
-| UC-01    | UC-18    | UC-07    | UC-08    |
-| UC-02    | UC-05    | UC-13    | UC-09    |
-| UC-14    | UC-25    | UC-17    | UC-22    |
-| UC-26    |          |          | UC-23    |
+| UC-06    | UC-15A   | UC-24    | UC-21    | 
+| UC-10    | UC-15B   | UC-19    | UC-20    | 
+| UC-12    | UC-15C   | UC-04    | UC-03    |
+| UC-01    | UC-16    | UC-07    | UC-08    |
+| UC-02    | UC-18A   | UC-13    | UC-09    |
+| UC-14    | UC-18B   | UC-17    | UC-22    |
+| UC-26    | UC-24    | UC-05    | UC-23    |
 
 **SPRINT 1**
 
@@ -29,11 +29,11 @@ https://docs.google.com/document/d/1WOuLoSY7cVJGAGwxCwvI7mmZAorQqwIiHzUI0QHBN7g/
 **SPRINT 2**
 
 | Name |                UC(TC)               |
-|----------------------|--------------------|
-| Nguyen Hang Nhat Huy | UC-15 (TC:53), UC-05 | 
-| Duong Thanh Thoai    | UC-15 (TC:51,52)   | 
-| Ngo Anh Kiet         | UC-15 (TC:24,25)   |
-| Nguyen Thanh Thang    |UC-16 (TC:26,54)   |
-| Truong Le Minh Nghia | UC-16 (TC:27), UC-18 (TC:28)|
-| Vo Anh Hao           | UC-18 (TC:29,55)   |
-| Nguyen Huu Phuc     |  UC-18 (TC:30)     |
+|----------------------|---------------------|
+| Nguyen Hang Nhat Huy | UC-15B              | 
+| Duong Thanh Thoai    | UC-15C              | 
+| Ngo Anh Kiet         | UC-15A              |
+| Nguyen Thanh Thang   | UC-18A              |
+| Truong Le Minh Nghia | UC-16               |
+| Vo Anh Hao           | UC-24               |
+| Nguyen Huu Phuc      | UC-18B              |
