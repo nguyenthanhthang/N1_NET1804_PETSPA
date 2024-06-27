@@ -12,14 +12,14 @@ https://docs.google.com/document/d/1WOuLoSY7cVJGAGwxCwvI7mmZAorQqwIiHzUI0QHBN7g/
 | UC-02    | UC-18A   | UC-13    | UC-09    |
 | UC-14    | UC-18B   | UC-17    | UC-22    |
 | UC-26    | UC-24    | UC-05    | UC-23    |
-
+| UC-01B   |          |          |          |
 **SPRINT 1**
 
 | Name |                UC(TC)               |
 |----------------------|---------------------|
 | Nguyen Hang Nhat Huy | UC-01               | 
 | Duong Thanh Thoai    | UC-02               | 
-| Ngo Anh Kiet         | UC-               |
+| Ngo Anh Kiet         | UC- 01B, UC-12      |
 | Nguyen Thanh Thang   | UC-06               |
 | Truong Le Minh Nghia | UC-14               |
 | Vo Anh Hao           | UC-26               |
