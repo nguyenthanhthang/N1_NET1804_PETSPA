@@ -51,3 +51,16 @@ https://docs.google.com/document/d/1WOuLoSY7cVJGAGwxCwvI7mmZAorQqwIiHzUI0QHBN7g/
 | Truong Le Minh Nghia | UC-13               |
 | Vo Anh Hao           | UC-07               |
 | Nguyen Huu Phuc      | UC-19               |
+
+
+**SPRINT 4**
+
+| Name |                UC(TC)               |
+|----------------------|---------------------|
+| Nguyen Hang Nhat Huy | UC-08               | 
+| Duong Thanh Thoai    | UC-03               | 
+| Ngo Anh Kiet         | UC-22               |
+| Nguyen Thanh Thang   | UC-21               |
+| Truong Le Minh Nghia | UC-20               |
+| Vo Anh Hao           | UC-25               |
+| Nguyen Huu Phuc      | UC-23               |
