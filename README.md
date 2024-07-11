@@ -34,7 +34,7 @@ https://docs.google.com/document/d/1WOuLoSY7cVJGAGwxCwvI7mmZAorQqwIiHzUI0QHBN7g/
 | Nguyen Hang Nhat Huy | UC-15B              | 
 | Duong Thanh Thoai    | UC-15C              | 
 | Ngo Anh Kiet         | UC-15A              |
-| Nguyen Thanh Thang   | UC-18A              |
+| Nguyen Thanh Thang   | UC-9                |
 | Truong Le Minh Nghia | UC-16               |
 | Vo Anh Hao           | UC-24               |
 | Nguyen Huu Phuc      | UC-18B              |
