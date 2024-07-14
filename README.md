@@ -18,26 +18,26 @@ https://docs.google.com/document/d/1NoqVBYG2d12JGmhevWAYb5g61WpHcYfcBVUT4ds2yfI/
 
 | Name |                UC(TC)               |
 |----------------------|---------------------|
-| Nguyen Hang Nhat Huy | UC-01               | 
-| Duong Thanh Thoai    | UC-02               | 
-| Ngo Anh Kiet         | UC- 01B, UC-12      |
-| Nguyen Thanh Thang   | UC-06               |
-| Truong Le Minh Nghia | UC-14               |
-| Vo Anh Hao           | UC-26               |
-| Nguyen Huu Phuc      | UC-10               |
+| Nguyen Hang Nhat Huy | UC-15               | 
+| Duong Thanh Thoai    | UC-05               | 
+| Ngo Anh Kiet         | UC-27               |
+| Nguyen Thanh Thang   | UC-28               |
+| Truong Le Minh Nghia | UC-18A              |
+| Vo Anh Hao           | UC-17               |
+| Nguyen Huu Phuc      | UC-19               |
 
 
 **SPRINT 2**
 
 | Name |                UC(TC)               |
 |----------------------|---------------------|
-| Nguyen Hang Nhat Huy | UC-15B              | 
-| Duong Thanh Thoai    | UC-15C              | 
-| Ngo Anh Kiet         | UC-15A              |
-| Nguyen Thanh Thang   | UC-9                |
-| Truong Le Minh Nghia | UC-16               |
-| Vo Anh Hao           | UC-24               |
-| Nguyen Huu Phuc      | UC-18B              |
+| Nguyen Hang Nhat Huy | UC-18B, UC-13       | 
+| Duong Thanh Thoai    | UC-21               | 
+| Ngo Anh Kiet         | UC-09               |
+| Nguyen Thanh Thang   | UC-11               |
+| Truong Le Minh Nghia | UC-07               |
+| Vo Anh Hao           | UC-10B              |
+| Nguyen Huu Phuc      | UC-17               |
 
 
 **SPRINT 3**
@@ -57,10 +57,10 @@ https://docs.google.com/document/d/1NoqVBYG2d12JGmhevWAYb5g61WpHcYfcBVUT4ds2yfI/
 
 | Name |                UC(TC)               |
 |----------------------|---------------------|
-| Nguyen Hang Nhat Huy | UC-08               | 
-| Duong Thanh Thoai    | UC-03               | 
-| Ngo Anh Kiet         | UC-22               |
-| Nguyen Thanh Thang   | UC-21               |
-| Truong Le Minh Nghia | UC-20               |
-| Vo Anh Hao           | UC-25               |
-| Nguyen Huu Phuc      | UC-23               |
+| Nguyen Hang Nhat Huy | UC-04               | 
+| Duong Thanh Thoai    | UC-29               | 
+| Ngo Anh Kiet         | UC-20               |
+| Nguyen Thanh Thang   | UC-24               |
+| Truong Le Minh Nghia | UC-22               |
+| Vo Anh Hao           | UC-08               |
+| Nguyen Huu Phuc      | UC-03               |
