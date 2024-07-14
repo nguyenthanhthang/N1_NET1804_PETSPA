@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-imgcus {
+  border: 10px solid transparent;
+  padding: 10px;
+  border-image: url("https://i.pinimg.com/564x/1d/a1/cf/1da1cff32e1b317917af26b3db01ce0f.jpg")
+    20 stretch;
+}
+.bg-cat-image {
+  background-image: url("https://i.pinimg.com/564x/77/a5/13/77a513ad739d2f9ff309e5c732a0beb2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-dog-image {
+  background-image: url("https://i.pinimg.com/564x/fe/ce/d4/feced4c8ea1d4d9adeee32be847d6360.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

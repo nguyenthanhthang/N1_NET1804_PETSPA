@@ -1,0 +1,9 @@
+.slider-container {
+    margin: auto;
+    max-width: 1000px; /* Độ rộng tối đa của carousel */
+  }
+  
+  .slick-slide {
+    text-align: center; /* Để các hình ảnh căn giữa */
+  }
+  
