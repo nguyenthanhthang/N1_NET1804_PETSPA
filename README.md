@@ -31,12 +31,12 @@ https://docs.google.com/document/d/1NoqVBYG2d12JGmhevWAYb5g61WpHcYfcBVUT4ds2yfI/
 
 | Name |                UC(TC)               |
 |----------------------|---------------------|
-| Nguyen Hang Nhat Huy | UC-18B, UC-13       | 
-| Duong Thanh Thoai    | UC-21               | 
-| Ngo Anh Kiet         | UC-09               |
-| Nguyen Thanh Thang   | UC-11               |
-| Truong Le Minh Nghia | UC-07               |
-| Vo Anh Hao           | UC-10B              |
+| Nguyen Hang Nhat Huy | UC-15               | 
+| Duong Thanh Thoai    | UC-16               | 
+| Ngo Anh Kiet         | UC-05               |
+| Nguyen Thanh Thang   | UC-27, UC-19        |
+| Truong Le Minh Nghia | UC-28               |
+| Vo Anh Hao           | UC-18A              |
 | Nguyen Huu Phuc      | UC-17               |
 
 
@@ -44,13 +44,13 @@ https://docs.google.com/document/d/1NoqVBYG2d12JGmhevWAYb5g61WpHcYfcBVUT4ds2yfI/
 
 | Name |                UC(TC)               |
 |----------------------|---------------------|
-| Nguyen Hang Nhat Huy | UC-04               | 
-| Duong Thanh Thoai    | UC-11               | 
-| Ngo Anh Kiet         | UC-17               |
-| Nguyen Thanh Thang   | UC-05               |
-| Truong Le Minh Nghia | UC-13               |
-| Vo Anh Hao           | UC-07               |
-| Nguyen Huu Phuc      | UC-19               |
+| Nguyen Hang Nhat Huy | UC-21, UC-18B       | 
+| Duong Thanh Thoai    | UC-19               | 
+| Ngo Anh Kiet         | UC-11               |
+| Nguyen Thanh Thang   | UC-07               |
+| Truong Le Minh Nghia | UC-10B              |
+| Vo Anh Hao           | UC-17               |
+| Nguyen Huu Phuc      | UC-13               |
 
 
 **SPRINT 4**
