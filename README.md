@@ -22,7 +22,7 @@ https://docs.google.com/document/d/1NoqVBYG2d12JGmhevWAYb5g61WpHcYfcBVUT4ds2yfI/
 | Duong Thanh Thoai    | UC-05               | 
 | Ngo Anh Kiet         | UC-27               |
 | Nguyen Thanh Thang   | UC-28               |
-| Truong Le Minh Nghia | UC-18A              |
+| Truong Le Minh Nghia | UC-18              |
 | Vo Anh Hao           | UC-17               |
 | Nguyen Huu Phuc      | UC-19               |
 
