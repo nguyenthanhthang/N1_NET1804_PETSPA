@@ -10,8 +10,8 @@ https://docs.google.com/document/d/1NoqVBYG2d12JGmhevWAYb5g61WpHcYfcBVUT4ds2yfI/
 | UC-12    | UC-27    | UC-09    | UC-20    |
 | UC-01    | UC-28    | UC-11    | UC-24    |
 | UC-02    | UC-18A   | UC-07    | UC-22    |
-| UC-14    | UC-17    | UC-10B   | UC-08    |
-| UC-26    | UC-19    | UC-17    | UC-03    |
+| UC-14    | UC-17A    | UC-10B   | UC-08    |
+| UC-26    | UC-19    | UC-17B    | UC-03    |
 | UC-01B   |          | UC-13    |          |
 
 **SPRINT 1**
@@ -37,7 +37,7 @@ https://docs.google.com/document/d/1NoqVBYG2d12JGmhevWAYb5g61WpHcYfcBVUT4ds2yfI/
 | Nguyen Thanh Thang   | UC-27, UC-19        |
 | Truong Le Minh Nghia | UC-28               |
 | Vo Anh Hao           | UC-18A              |
-| Nguyen Huu Phuc      | UC-17               |
+| Nguyen Huu Phuc      | UC-17A               |
 
 
 **SPRINT 3**
@@ -49,7 +49,7 @@ https://docs.google.com/document/d/1NoqVBYG2d12JGmhevWAYb5g61WpHcYfcBVUT4ds2yfI/
 | Ngo Anh Kiet         | UC-11               |
 | Nguyen Thanh Thang   | UC-07               |
 | Truong Le Minh Nghia | UC-10B              |
-| Vo Anh Hao           | UC-17               |
+| Vo Anh Hao           | UC-17B               |
 | Nguyen Huu Phuc      | UC-13               |
 
 
