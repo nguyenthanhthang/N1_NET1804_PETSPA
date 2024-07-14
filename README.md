@@ -45,7 +45,7 @@ https://docs.google.com/document/d/1NoqVBYG2d12JGmhevWAYb5g61WpHcYfcBVUT4ds2yfI/
 | Name |                UC(TC)               |
 |----------------------|---------------------|
 | Nguyen Hang Nhat Huy | UC-21, UC-18B       | 
-| Duong Thanh Thoai    | UC-19               | 
+| Duong Thanh Thoai    | UC-09               | 
 | Ngo Anh Kiet         | UC-11               |
 | Nguyen Thanh Thang   | UC-07               |
 | Truong Le Minh Nghia | UC-10B              |
