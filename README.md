@@ -5,14 +5,14 @@ https://docs.google.com/document/d/1WOuLoSY7cVJGAGwxCwvI7mmZAorQqwIiHzUI0QHBN7g/
 
 | Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 |
 |----------|----------|----------|----------|
-| UC-06    | UC-15A   | UC-24    | UC-21    | 
-| UC-10    | UC-15B   | UC-19    | UC-20    | 
-| UC-12    | UC-15C   | UC-04    | UC-03    |
-| UC-01    | UC-16    | UC-07    | UC-08    |
-| UC-02    | UC-18A   | UC-13    | UC-09    |
-| UC-14    | UC-18B   | UC-17    | UC-22    |
-| UC-26    | UC-24    | UC-05    | UC-23    |
-| UC-01B   |          | UC-11    |          |
+| UC-06    | UC-15    | UC-18B   | UC-04    | 
+| UC-10    | UC-05    | UC-21    | UC-29    | 
+| UC-12    | UC-27    | UC-09    | UC-20    |
+| UC-01    | UC-28    | UC-11    | UC-24    |
+| UC-02    | UC-18A   | UC-07    | UC-22    |
+| UC-14    | UC-17    | UC-10B   | UC-08    |
+| UC-26    | UC-19    | UC-17    | UC-03    |
+| UC-01B   |          | UC-13    |          |
 
 **SPRINT 1**
 
